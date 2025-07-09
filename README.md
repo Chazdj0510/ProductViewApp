@@ -50,9 +50,17 @@ This is an Android application for browsing and selecting products from a local 
 
 1. **Launch the app.**
 2. The product catalog will be shown in a scrollable list.
-3. Tap the checkboxes to select products.
-4. After selecting at least 3 products, tap the **Next** button.
-5. The app navigates to the next screen to display your selections.
+   - ![Product Catolog](screenshots/main_page.png)
+4. Tap the checkboxes to select products.
+   - ![Selected items](screenshots/selected_items.png)
+6. After selecting at least 3 products, tap the **Next** button.
+8. The app navigates to the next screen to display your selections.
+   - ![Display Page](screenshots/second_page.png)
+9. To share your selection, tap the **Send via Email** button:
+   - This opens your email app with the product details pre-filled.
+   - Choose the recipient and send the email.
+   - ![Email Render](screenshots/email_rendered.png)
+   - ![Email](screenshots/email.png)
 
 ---
 
@@ -79,6 +87,7 @@ Product images and placeholders.
 - The database is **reset and repopulated** every time `MainActivity` starts.
 - Product images are stored as byte arrays (BLOB).
 - To view the database click **View > Tool Windows > App Inspection
+  ![Database](screenshots/database.png)
 
 ---
 
