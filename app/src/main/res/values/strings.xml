@@ -1,0 +1,58 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">ProductViewApp</string>
+    <string name="descript">Description</string>
+
+    <!-- Main Activity -->
+    <string name="title_main">Available Products</string>
+    <string name="next_button">Next</string>
+
+    <!-- Second Activity -->
+    <string name="email_button">Send via Email</string>
+    <string name="email_subject">Selected Products Info</string>
+    <string name="toast_email_sent">Email sent. List cleared!</string>
+
+    <!-- Product Item -->
+    <string name="product_image_description">Product Image</string>
+
+    <!-- Email Footer (optional) -->
+    <string name="email_footer">Sent from Product Selector app.</string>
+
+    <!-- Empty State (optional) -->
+    <string name="no_products_available">No products available.</string>
+    <string name="no_products_selected">Please select at least three products.</string>
+
+    <!-- Product Names -->
+    <string name="cam_name">Security Cameras</string>
+    <string name="coffee_name">Espresso Machine</string>
+    <string name="fire_name">Amazon Fire TV Stick</string>
+    <string name="mat_name">Mattress</string>
+    <string name="case_name">iPhone Case</string>
+    <string name="pool_name">Swimming Pool</string>
+    <string name="tab_name">Amazon Fire Tablet</string>
+    <string name="tv_name">Amazon Fire TV</string>
+    <string name="vac_name">Vacuum Cleaner</string>
+    <string name="time_name">Smartwatch</string>
+
+    <!-- Product Descriptions -->
+    <string name="cam_description">Blink Outdoor 4 (4th Gen) – 3-Camera System is a wireless, battery-powered home security setup.</string>
+    <string name="coffee_description">Brushed Stainless Steel Breville Barista Express Espresso Machine</string>
+    <string name="fire_description">Amazon Fire TV Stick 4K with AI-powered Fire TV Search, Wi-Fi 6, stream over 1.5 million movies and shows, free &amp; live TV</string>
+    <string name="mat_description">ZINUS 12 Inch Queen Cooling Comfort Hybrid Mattress</string>
+    <string name="case_description">SUPFINE Magnetic for iPhone 14 Case &amp; iPhone 13 Case</string>
+    <string name="pool_description">Bestway Steel Pro MAX Above Ground Swimming Pool (15\' x 42")</string>
+    <string name="tab_description">Amazon Fire HD 10 tablet (newest model) built for relaxation, 10.1" vibrant Full HD screen, octa-core processor, 3 GB RAM, 32 GB, Black</string>
+    <string name="tv_description">Amazon Fire TV 75" Omni QLED Series 4K UHD smart TV, Dolby Vision IQ, Fire TV Ambient Experience, local dimming, hands-free with Alexa</string>
+    <string name="vac_description">Shark | Pet Cordless Vacuum Cleaner | LED Headlights | Removable Handheld Vacuum for Pet Hair | Crevice Tool &amp; Pet Multi-Tool Included | 40min Runtime | For Carpet &amp; Hard Floors | Grey</string>
+    <string name="time_description">Garmin fēnix 7 Pro Sapphire Solar, Multisport GPS Smartwatch, Built-in Flashlight, Solar Charging Capability, Black</string>
+
+    <!-- Product Seller -->
+    <string name="tg">Target</string>
+    <string name="wm">Walmart</string>
+    <string name="am">Amazon</string>
+    <string name="eb">Ebay</string>
+    <string name="jl">Ocean State Job Lot</string>
+
+
+
+</resources>
