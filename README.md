@@ -27,22 +27,22 @@ This is an Android application for browsing and selecting products from a local 
 
 2. **Open in Android Studio**
 
-- Launch Android Studio.
-- Choose **Open an existing project**.
-- Select the project folder you cloned.
+  - Launch Android Studio.
+  - Choose **Open an existing project**.
+  - Select the project folder you cloned.
 
 3. **Sync Gradle**
 
-Android Studio should automatically sync Gradle. If not, click **File > Sync Project with Gradle Files**.
+  Android Studio should automatically sync Gradle. If not, click **File > Sync Project  with Gradle Files**.
 
 4. **Build the project**
 
-- Click **Build > Make Project**.
+  - Click **Build > Make Project**.
 
 5. **Run on emulator or device**
 
-- Connect a device or launch an emulator.
-- Click the green **Run** button.
+  - Connect a device or launch an emulator.
+  - Click the green **Run** button.
 
 ---
 
